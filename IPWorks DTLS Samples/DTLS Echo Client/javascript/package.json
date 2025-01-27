@@ -8,7 +8,7 @@
   "main": "dtlsclient.js",
   "dependencies": {
     "full-icu": "*",
-    "ipworksdtls": "^24.0.9067"
+    "ipworksdtls": "^24.0.9153"
   },
   "scripts": {
     "dtlsclient": "node dtlsclient.js"
